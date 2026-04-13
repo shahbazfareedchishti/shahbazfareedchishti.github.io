@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=database&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Linux_Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
 </p>
