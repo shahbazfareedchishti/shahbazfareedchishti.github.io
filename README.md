@@ -43,31 +43,10 @@
 
 ### ✦ Top Repositories
 
-<div align="center">
-  <a href="https://github.com/shahbazfareedchishti/LangChain-Playbook-RAG-Agents-LLMs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbazfareedchishti&repo=LangChain-Playbook-RAG-Agents-LLMs&theme=tokyonight&show_icons=true" />
-  </a>
-  <a href="https://github.com/shahbazfareedchishti/Traffic-Prediction-System-using-Arduino-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbazfareedchishti&repo=Traffic-Prediction-System-using-Arduino-&theme=tokyonight&show_icons=true" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/shahbazfareedchishti/FYP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbazfareedchishti&repo=FYP&theme=tokyonight&show_icons=true" />
-  </a>
-  <a href="https://github.com/shahbazfareedchishti/LeetCode-SQL-Challenges">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahbazfareedchishti&repo=LeetCode-SQL-Challenges&theme=tokyonight&show_icons=true" />
-  </a>
-</div>
-
----
-
-### ✦ GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahbazfareedchishti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazfareedchishti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+- **[LangChain-Playbook-RAG-Agents-LLMs](https://github.com/shahbazfareedchishti/LangChain-Playbook-RAG-Agents-LLMs)** — Integrated Streamlit and SQLite architectures for intelligent document retrieval using LangChain.
+- **[Traffic-Prediction-System-using-Arduino-](https://github.com/shahbazfareedchishti/Traffic-Prediction-System-using-Arduino-)** — End-to-end system integrating YOLOv11 and LSTM networks for predictive time-series analysis.
+- **[FYP-Mechanical-Noise-Reduction](https://github.com/shahbazfareedchishti/FYP)** — CRNN models and companion mobile application to identify and reduce noise in mechanical systems.
+- **[LeetCode-SQL-Challenges](https://github.com/shahbazfareedchishti/LeetCode-SQL-Challenges)** — SQL challenges from LeetCode.
 
 <br>
 
