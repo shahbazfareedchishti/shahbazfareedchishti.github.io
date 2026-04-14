@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;RAG+Architecture+Specialist;Computer+Vision+Integrator;System+Optimization" alt="Typing SVG" />
 
 <p align="center">
-  <em>Data Scientist and AI Engineer specializing in Retrieval-Augmented Generation (RAG) architectures, computer vision, and system optimization. Driven by a disciplined approach to mastery and continuous learning. Based in Islamabad.</em>
+  <em>Data Scientist and AI Engineer specializing in Retrieval-Augmented Generation (RAG) architectures. Driven by a disciplined approach to mastery and continuous learning. Based in Islamabad.</em>
 </p>
 
 <p align="center">
